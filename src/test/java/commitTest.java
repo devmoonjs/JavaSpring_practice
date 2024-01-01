@@ -1,3 +1,3 @@
 public class commitTest {
-    int test;
+    String test;
 }
